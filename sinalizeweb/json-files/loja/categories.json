@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "type": "category",
+    "published": true,
+    "name": "SEO",
+    "slug": "seo",
+    "description": "<p><a href='/consultoria-seo' target='_blank' rel='noreferrer'>SEO</a> é a principal disciplina dominada e oferecida pela <strong>Agência</strong> e <strong>Consultoria SEO</strong> SinalizeWeb SEO &amp; Performance.<br><strong>O que é SEO</strong> ?&nbsp;<br>SEO <strong>Search Engine Optimization</strong> é a terminologia que define a disciplina utilizada na definição personalizada, das melhores práticas a serem aplicadas numa determinada página de internet/ web site, sendo um facilitador de leitura e indexação pelos motores de busca, em relação ao público-alvo e fatia de mercado.<br><strong>SEO</strong> o que é ainda é uma das principais dúvidas de empreendedores digitais no Brasil e no mundo, talvez pela intangibilidade do produto em sí, oferecido por muitas das <strong>Melhores Agências</strong> de SEO e <strong>Marketing Digital</strong>.<br><strong>O que significa SEO</strong> ?<br>SEO é uma sigla da expressão em inglês Search Engine Optimization, que numa tradução do entendimento nada mais é do que <strong>Otimização para Mecanismos ou Motores de Pesquisa</strong> na Internet, como Google, Yahoo, Bing, Baidoo, etc.<br><strong>O que SEO Marketing</strong> ?<br>O SEO Marketing ou <strong>SEO no Marketing Digital</strong> é muito confundido com Marketing de Conteúdo, pois em SEO costuma-se dizer que o Conteúdo é Rei, devido sua enorme importância na geração de relevância de uma página de internet, site ou domínio junto ao Google por exemplo.<br>Mas não é apenas o conteúdo de texto em html que será importante para o SEO de um site. Uma série de demais fatores em SEO onpage e offpage são necessários para que o Google consiga indexar uma nova página ou um site inteiro de forma a exibi-lo corretamente conforme sua relevância de conteúdo em conformidade a um termo de pesquisa ( palavra-chave ) ou keyword utilizada por um usuário do Google.<br>É importante ter em mente tudo o que é necessário em <strong>SEO técnico</strong> inclusive para que um bom trabalho de SEO aconteça.<br>Confira material bastante orientador a respeito de <a href='https://developers.google.com/search/docs/beginner/do-i-need-seo?hl=en&amp;visit_id=637484058603540235-2002636422&amp;rd=1' target='_blank' rel='help noopener noreferrer' data-mce-href='https://developers.google.com/search/docs/beginner/do-i-need-seo?hl=en&amp;visit_id=637484058603540235-2002636422&amp;rd=1'>SEO do próprio Programa Developers do Google</a>.</p>",
+    "metadata": {
+      "title": "SEO, Consultoria SEO, Search Engine Optimization",
+      "keywords": "seo,search engine optimization,otimização de sites",
+      "description": "SEO Otimização de Sites Consultoria e Implementação SEO para Ecommerce Search Engine Optimization SEO Marketing",
+      "author": "SinalizeWeb SEO & Performance"
+    }
+  },
+
+  {
+    "id": 2,
+    "type": "category",
+    "published": true, 
+    "name": "Link Patrocinado",
+    "slug": "midia-paga",
+    "description": "<p><strong>SEM</strong> Search Engine Marketing é a campanha de <strong>Link Patrocinado</strong>, Paid Search, <strong>Ads</strong>, Mídia Paga, pode ser <strong>Google</strong> Facebook Instagram Linkedin ou YouTube <strong>Ads</strong></p>",
+    "metadata": {
+      "title": "Link Patrocinado, Paid Search, Ads, Mídia Paga",
+      "keywords": "Link Patrocinado,Paid Search,Ads,Mídia Paga,sem,serach engine marketing",
+      "description": "SEM Search Engine Marketing é a campanha de Link Patrocinado, Paid Search, Ads, Mídia Paga, pode ser Google Facebook Instagram Linkedin ou YouTube Ads",
+      "author": "SinalizeWeb SEO & Performance"
+    }
+  },
+
+  {
+    "id": 3,
+    "type": "category",
+    "published": true,
+    "name": "Inbound Marketing",
+    "slug": "inbound-marketing",
+    "description": "<p><strong>Inbound Marketing</strong> Automação de Marketing RD Station</p>",
+    "metadata": {
+      "title": "Inbound Marketing, Inbound Mkt",
+      "keywords": "Inbound Marketing,Inbound Mkt",
+      "description": "Inbound Marketing Automação de Marketing RD Station",
+      "author": "SinalizeWeb SEO & Performance"
+    }
+  },
+
+  {
+    "id": 4,
+    "type": "category",
+    "published": true,
+    "name": "E-Commerce",
+    "slug": "desenvolvimento-ecommerce",
+    "description": "<p><strong>Desenvolvimento Loja E-Commerce</strong> Vtex, Magento 2, Jet Commerce, Orbital Commerce, Shopify etc Plastaforma de ecommerce <strong>Desenvolvimento Loja E-Commerce</strong><br>SinalizeWeb desde 2007 sua melhor opção em <strong>Agência de ECommerce</strong>&nbsp;</p>",
+
+    "metadata": {
+      "title": "Desenvolvimento Loja E-Commerce",
+      "keywords": "Desenvolvimento Loja E-Commerce,ecommerce,loja online,loja virtual",
+      "description": "Desenvolvimento Loja E-Commerce Vtex, Magento 2, Jet Commerce, Orbital Commerce, Shopify etc Plastaforma de ecommerce Desenvolvimento Loja E-Commerce",
+      "author": "SinalizeWeb SEO & Performance"
+    }
+  } 
+]
